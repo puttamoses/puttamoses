@@ -16,16 +16,16 @@
 
 ## 🔐 About Me
 
-I break things — legally 😄
+I secure systems end-to-end — from the pipeline to production 🚀
 
-I'm a **Security Analyst & DevSecOps Engineer** based in Hyderabad, and I genuinely enjoy finding vulnerabilities that others miss. Whether it's chaining an IDOR to a privilege escalation or catching a SQL injection hiding behind a poorly sanitized API endpoint — that moment of discovery is what drives me.
+I'm a **DevSecOps Engineer** based in Hyderabad who believes security shouldn't be an afterthought. I build and secure CI/CD pipelines, harden Kubernetes clusters, and make sure vulnerabilities never make it to production.
 
-Over the past 3+ years I've been doing hands-on **web app and API pentesting**, writing CVSS-scored reports that developers actually understand, and embedding security earlier into pipelines so bugs never reach production in the first place.
+To make me a better DevSecOps Engineer, I went deeper — I learned **Web App & API Penetration Testing** so I actually understand how attackers think. That means when I set up a security gate in a pipeline, I know exactly what it's protecting against.
 
-- 🔍 I live in **Burp Suite, OWASP ZAP, and Metasploit** — black-box and grey-box testing across real client environments
-- 🛡️ I know **OWASP Top 10** inside out — SQL Injection, XSS, IDOR, CSRF, SSRF, Broken Access Control
-- ⚙️ I also do **DevSecOps** — SAST, DAST, container scanning, CI/CD security gates on Jenkins & GitLab CI
-- ☁️ Comfortable securing apps running on **AWS, Docker, and Kubernetes**
+- ⚙️ I build **secure CI/CD pipelines** — Jenkins, GitLab CI, ArgoCD with SAST, DAST, and container scanning baked in
+- ☁️ I secure cloud-native infra on **AWS, Docker, and Kubernetes (EKS)** — RBAC, OPA Gatekeeper, network policies
+- 🔍 I do **VAPT** too — Burp Suite, OWASP ZAP, Metasploit — because knowing how to attack makes me a better defender
+- 🛡️ I speak **OWASP Top 10, CVSS, SSDLC** — and write reports developers actually act on
 - 📍 Hyderabad, India — open to relocation
 - 📫 **puttamoses53@gmail.com**
 
@@ -163,5 +163,5 @@ Secure multi-tenant DevSecOps platform for a high-traffic government education p
 </p>
 
 <p align="center">
-  <b>Open to Application Security, DevSecOps, and Penetration Testing opportunities</b>
+  <b>Open to DevSecOps Engineering, Cloud Security, and Application Security opportunities</b>
 </p>
