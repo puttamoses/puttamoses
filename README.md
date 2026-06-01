@@ -16,15 +16,18 @@
 
 ## 🔐 About Me
 
-I'm a **Security Analyst & DevSecOps Engineer** with 3+ years of experience in Web Application & API Penetration Testing (WAPT), exploiting OWASP Top 10 vulnerabilities, and embedding security into CI/CD pipelines across AWS cloud environments.
+I break things — legally 😄
 
-- 🔭 Currently focused on **Web App & API Penetration Testing** across healthcare, education & e-commerce
-- 🛡️ Specialized in **OWASP Top 10** — SQL Injection, XSS, IDOR, CSRF, SSRF, Broken Access Control
-- 🔬 Delivering **CVSS-scored pentest reports** with PoC evidence and actionable remediation guidance
-- ⚙️ Also skilled in **DevSecOps** — SAST, DAST, container security, Jenkins/GitLab CI pipelines
-- ☁️ Securing cloud-native apps on **AWS, Docker, and Kubernetes**
-- 📍 Based in **Hyderabad, India** · Open to Relocation
-- 📫 Reach me at **puttamoses53@gmail.com**
+I'm a **Security Analyst & DevSecOps Engineer** based in Hyderabad, and I genuinely enjoy finding vulnerabilities that others miss. Whether it's chaining an IDOR to a privilege escalation or catching a SQL injection hiding behind a poorly sanitized API endpoint — that moment of discovery is what drives me.
+
+Over the past 3+ years I've been doing hands-on **web app and API pentesting**, writing CVSS-scored reports that developers actually understand, and embedding security earlier into pipelines so bugs never reach production in the first place.
+
+- 🔍 I live in **Burp Suite, OWASP ZAP, and Metasploit** — black-box and grey-box testing across real client environments
+- 🛡️ I know **OWASP Top 10** inside out — SQL Injection, XSS, IDOR, CSRF, SSRF, Broken Access Control
+- ⚙️ I also do **DevSecOps** — SAST, DAST, container scanning, CI/CD security gates on Jenkins & GitLab CI
+- ☁️ Comfortable securing apps running on **AWS, Docker, and Kubernetes**
+- 📍 Hyderabad, India — open to relocation
+- 📫 **puttamoses53@gmail.com**
 
 ---
 
