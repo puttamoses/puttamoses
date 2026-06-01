@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Moses Putta 👋</h1>
 
-<h3 align="center">DevSecOps Engineer · Cloud Security · AWS · Kubernetes</h3>
+<h3 align="center">DevSecOps Engineer · Application Security · AWS · Kubernetes</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moses-putta-158a87300" target="_blank">
@@ -16,12 +16,13 @@
 
 ## 🔐 About Me
 
-I'm a **DevSecOps Engineer** with 3+ years of experience securing CI/CD pipelines, managing cloud-native AWS infrastructure, and hardening Kubernetes environments at scale.
+I'm a **Security Analyst & DevSecOps Engineer** with 3+ years of experience in Web Application & API Penetration Testing (WAPT), exploiting OWASP Top 10 vulnerabilities, and embedding security into CI/CD pipelines across AWS cloud environments.
 
-- 🔭 Currently working on **EKS security hardening & GitOps workflows**
-- 🛡️ Focused on **shift-left security** — catching vulnerabilities before they reach production
-- ☁️ Building with **AWS, Terraform, ArgoCD, Helm, and Kubernetes**
-- 📊 Passionate about **full-stack observability** — Prometheus, Grafana, Loki, OpenTelemetry
+- 🔭 Currently focused on **Web App & API Penetration Testing** across healthcare, education & e-commerce
+- 🛡️ Specialized in **OWASP Top 10** — SQL Injection, XSS, IDOR, CSRF, SSRF, Broken Access Control
+- 🔬 Delivering **CVSS-scored pentest reports** with PoC evidence and actionable remediation guidance
+- ⚙️ Also skilled in **DevSecOps** — SAST, DAST, container security, Jenkins/GitLab CI pipelines
+- ☁️ Securing cloud-native apps on **AWS, Docker, and Kubernetes**
 - 📍 Based in **Hyderabad, India** · Open to Relocation
 - 📫 Reach me at **puttamoses53@gmail.com**
 
@@ -29,13 +30,34 @@ I'm a **DevSecOps Engineer** with 3+ years of experience securing CI/CD pipeline
 
 ## 🛠️ Tech Stack
 
+### Penetration Testing & App Security
+![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=linux&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=flat-square&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4CAF50?style=flat-square&logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=linux&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=flat-square&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+### Standards & Methodologies
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![CVSS](https://img.shields.io/badge/CVSS_Scoring-CC0000?style=flat-square&logo=linux&logoColor=white)
+![PTES](https://img.shields.io/badge/PTES_Methodology-4A4A4A?style=flat-square&logo=linux&logoColor=white)
+![SSDLC](https://img.shields.io/badge/SSDLC-0078D7?style=flat-square&logo=linux&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-8B008B?style=flat-square&logo=linux&logoColor=white)
+![API Security](https://img.shields.io/badge/API_Security_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 ### CI/CD & DevSecOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube_SAST-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
 
@@ -53,20 +75,12 @@ I'm a **DevSecOps Engineer** with 3+ years of experience securing CI/CD pipeline
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
 
-### Security Tools
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
 ### Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2C&logoColor=white)
 
-### Operating Systems
+### OS & Networking
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -132,11 +146,12 @@ Secure multi-tenant DevSecOps platform for a high-traffic government education p
 
 ## 📂 What You'll Find Here
 
+- 🔐 **Pentest methodology notes** — WAPT, API security testing, OWASP Testing Guide (OTG) workflows
+- 🛡️ **Security automation scripts** — Python/Bash tools for recon, scanning, and reporting
 - 🔧 **Terraform modules** — reusable IaC for VPC, EKS, IAM on AWS
 - 🔒 **Kubernetes security configs** — OPA Gatekeeper policies, RBAC, Pod Security Admission
 - 🚀 **CI/CD pipeline templates** — Jenkins + GitLab CI with SAST, DAST, Trivy integration
 - 📊 **Observability stacks** — Prometheus, Grafana, Loki, OpenTelemetry setups
-- 🛡️ **DevSecOps playbooks** — security hardening guides and automation scripts
 
 ---
 
@@ -145,5 +160,5 @@ Secure multi-tenant DevSecOps platform for a high-traffic government education p
 </p>
 
 <p align="center">
-  <b>Open to DevSecOps, Cloud Security, and Site Reliability Engineering opportunities</b>
+  <b>Open to Application Security, DevSecOps, and Penetration Testing opportunities</b>
 </p>
